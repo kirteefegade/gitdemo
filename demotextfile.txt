@@ -1,1 +1,2 @@
-This is txt file for git use
+This is txt file for git use.
+I am modifying the file. now changing
