@@ -1,0 +1,38 @@
+// Agenda:
+
+// 1.C# Languge Features
+// const  ,readonly
+// class, using, namespaces,
+// is , as 
+// params
+// command line argument
+
+//Process, Thread, Stack
+
+// 2. C# pure Object Oriented Programming
+
+//Principle
+// Abstraction, Encapsulation, inheritance
+// Polymorphism
+
+
+//Relationship between Two classess
+// Association : has a relationship
+// Inheritnace : is a relationship
+
+
+// Access Specifiers
+// public, private, protected, internal  (Assembly Scope)
+// new, virtual , abstrct, sealed
+// inheritance
+
+// Operator overloading------------------------------ c++
+// Function overriding (Polymorphism)
+
+// 3..NET Framework component
+
+// CTS, CLS, CLR
+// Common Type System
+// // interface
+// Common Lanugage Specification
+// Common Langauge Runtime

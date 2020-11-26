@@ -1,0 +1,69 @@
+
+
+Day 13:
+	
+	   *******Never ever hard core  connection string into C# code
+		  System.Configuration.dll
+		  ConfigurationManager.ConnectionStrings[""].connectinstring;
+		  Store connection string in to respective 
+				Application Configuration Files
+				 console application--------app.config
+				 web application------------web.config
+	
+	   Data is accessed within .NET applications using 	
+			Database connectivity
+					-------ADO.NET ( JDBC)
+					-------Entity Framework ( Hibernate)
+			Prerequiste: LINQ  ( HQL)
+					and C # features
+						lambda express, annonymous, extension method, dynamic variable
+	
+
+	Views
+
+		What do you mean by Design Pattern ?
+			Common Problem Solving technique in Software
+				
+			Singleton
+			publisher / subscriber  ( Observer Pattern)------- Event and delegate
+			Class Factory
+			Facad
+			MVC------Web based Applcation
+			MVP-------forms, databading, Event Binding
+				  Model View Presenter ( Windows based application ,  WPF)
+			MVVM-----Model View View Model ( Angular, React JS, vue.js....)
+		
+
+			Model------ data, Business Entity'
+			Controller---representing Request processing logic
+					set of action methods
+						mapped for  HTTP Get Request
+						       for HTTP Post Type of Request
+
+			View---------presentation will be managed
+				     contains razor syntax
+						.cshtml file
+				HTML + CS code+ using HTML helper function
+
+				                  
+
+
+	
+		Razor view 
+		html helper functions
+		How to use Chart, table, Graph for presentation
+		
+		partial View
+		Model Binding
+		Data Annotations
+
+	state management
+		QueryString
+		Cookies
+		Application Variables
+		Session Varialbles
+		Output Caching
+		DataCaching
+
+
+	
